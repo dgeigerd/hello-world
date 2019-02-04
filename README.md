@@ -1,8 +1,7 @@
 # hello-world
 hello-world Repository
 
-code change here
+The code is changing here.
+I just wanna see what is happening.
 
-This is left here and i just wanna see what is happening.
-
-Btw: Github is awesome
+Btw: Github is still awesome!
